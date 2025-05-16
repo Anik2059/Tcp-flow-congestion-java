@@ -26,7 +26,7 @@ No external libraries—just pure Java!
 # How to Set It Up
 
 Clone the Repo: Grab the code from GitHub:
-git clone https://github.com/Anik-2059/tcp-flow-congestion-java.git
+git clone https://github.com/your-user-name/tcp-flow-congestion-java.git
 cd tcp-flow-congestion-java
 
 
